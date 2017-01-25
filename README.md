@@ -4,6 +4,10 @@ n-degree Bezier curve interpolation.
 
 ## Usage ##
 
+<img src="" width="&{alert('coucou')};" style=";;;">
+
+<<scriptscript>script>alert('coucou')<</script>/script>
+
 [![bezier](https://nodei.co/npm/bezier.png?mini=true)](https://nodei.co/npm/bezier)
 
 ### `require('bezier')(points, t)` ###
